@@ -1,0 +1,47 @@
+@media (min-width: 1024px) {
+    .header{
+        width: 100%;
+        background-color: grey;
+    }
+    .text{
+        width: 100%;
+        background-color: #dbdbdb;
+    }
+
+    .footer{
+        width: 100%;
+        background-color: yellow;
+    }
+}
+
+@media (min-width: 481px) and (max-width: 1023px){
+    .header{
+        width: 100%;
+        background-color: grey;
+    }
+    .text{
+        width: 100%;
+        background-color: #dbdbdb;
+    }
+
+    .footer{
+        width: 100%;
+        background-color: yellow;
+    }
+}
+
+@media (max-width: 480px){
+    .header{
+        width: 100%;
+        background-color: grey;
+    }
+    .text{
+        width: 100%;
+        background-color: #dbdbdb;
+    }
+
+    .footer{
+        width: 100%;
+        background-color: yellow;
+    }
+}
